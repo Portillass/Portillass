@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jarell E. Portillas</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Im f**king always failure</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=portillas&label=Profile%20views&color=0e75b6&style=flat" alt="portillas" /> </p>
 
@@ -20,5 +20,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Portillass&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Portillass&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Portillass&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Portillass&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Portillass&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
