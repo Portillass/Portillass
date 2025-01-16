@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jarell E. Portillas</h1>
+<p align="center"> 
+  <i><b>Stalke jud...</b></i><br>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
+  <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg" />
+</p>
 <h3 align="center">Im f**king always failure</h3>
 
 
