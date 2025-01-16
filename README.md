@@ -22,20 +22,58 @@
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Portillass&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Portillass&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Portillass&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+# 📊 GitHub Stats
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Portillass&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+</div>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Portillass&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Portillass&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <img align="center" alt="Coding GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400" />
+</div>
+
+
+### ✍️ Random Sweet Quotes
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=blue&size=25&center=true&vCenter=true&width=600&height=100&lines=You+are+the+CSS+of+my+HTML;You+make+my+heart+skip+a+beat;You+light+up+my+world+like+JavaScript;I+love+you+like+an+infinite+loop;You+are+my+code+and+I+am+your+IDE;You+are+my+favorite+debugging+tool;My+love+for+you+is+like+an+array+of+infinite+length;You+compile+my+heart+into+something+beautiful;You+are+the+algorithm+that+solves+all+my+problems;I+don’t+need+a+Git+commit+message+to+know+I+love+you;Our+love+is+written+in+binary;You+are+the+function+that+returns+my+happiness;Like+PHP+and+MySQL,+we+belong+together;You+are+my+class+and+I+am+your+object;You+are+my+source+code+and+I+am+your+compiler;You+push+me+to+be+the+best+version+of+myself;Your+love+is+the+source+of+my+syntax+highlighting;I+feel+at+home+when+I+look+at+you+like+I+look+at+my+terminal;Our+relationship+is+like+React+components%2C+we+work+together+perfectly;You+make+my+heart+race+like+a+for+loop+in+O(n)%3B;Together+we+are+like+HTML+and+CSS%2C+we+complete+each+other;You+are+the+semicolon+to+my+code;You+are+the+constant+that+keeps+me+from+changing;Our+love+is+like+Git+branches,+we+always+merge+together;You+make+my+logic+flow+like+smooth+code;We+are+like+HTML+and+JavaScript,+we+bring+life+to+webpages;You+are+my+frontend+and+I+am+your+backend;Together+we+are+like+a+perfect+algorithm%2C+flawless+and+efficient;You+are+my+Git+pull+request%2C+always+bringing+me+new+ideas;I+love+you+more+than+a+well-written+function;You+are+my+command+line%2C+the+only+thing+I+need+to+communicate;You+make+my+system+run+like+an+optimized+program;We+are+the+input+and+output+of+each+other’s+life;You+are+the+host+to+my+server%2C+always+keeping+me+up;I+am+your+variable%2C+and+you+define+me;You+are+my+CSS+animations%2C+making+everything+better%2C+faster%2C+and+smoother;Our+love+is+like+node.js%2C+non-blocking+and+asynchronous;You+are+my+framework%2C+structuring+my+world;I+love+you+like+my+favorite+IDE%2C+it+always+feels+like+home;You+are+the+string+to+my+variable%2C+I+can’t+live+without+you;I+code+better+when+I+am+with+you%2C+my+perfect+partner;You+are+my+bug-free+program%2C+making+my+life+so+much+easier;You+are+my+favorite+library%2C+always+helping+me+solve+problems;You+are+my+declaration+of+love%2C+always+clear+and+understood">
+  </a>
+</p>
+
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Portillass&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Portillass&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🎵 My Favorite Song
+
+<div align="center">
+  <a href="https://open.spotify.com/track/3LIENf1zwG7vXj78SKmBqA">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=blue&size=25&center=true&vCenter=true&width=600&height=100&lines=🎶+Can’t+Help+Falling+in+Love+With+You;A+classic+that+never+gets+old!">
+  </a>
+</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center">
