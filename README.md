@@ -31,7 +31,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center">
-  Made with :heart: &nbsp;using GitHub Markdown
+  Made with :heart: &nbsp;
   <br/>
    <br/>
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
