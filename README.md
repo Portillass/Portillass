@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
   <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg" />
 </p>
-<h3 align="center">Im f**king always failure</h3>
+<h3 align="center">No retreat—just coffee, code, and fixes</h3>
 
 
 <h3 align="left">Connect with me:</h3>
