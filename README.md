@@ -22,6 +22,9 @@
 
 <marquee direction="right">👉 **<a href="https://portillass.github.io/">Click Here to View My Portfolio</a>** 👈</marquee>
 
+<h3 align="left">Welcome 2026</h3>
+
+<marquee direction="right">👉 **<a href="https://happynewyear-seven-puce.vercel.app/">Click Here to View my New year countdown</a>** 👈</marquee>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
