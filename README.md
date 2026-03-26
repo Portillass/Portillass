@@ -25,6 +25,9 @@
 <h3 align="left">Welcome 2026</h3>
 
 <marquee direction="right">👉 **<a href="https://happynewyear-seven-puce.vercel.app/">Click Here to View my New year countdown</a>** 👈</marquee>
+<h3 align="left">Open Poetry Library and submit your poem</h3>
+
+<marquee direction="right">👉 **<a href="https://poetryhub-web.vercel.app/">Click Here to View Poetry Hub</a>** 👈</marquee>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
