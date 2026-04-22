@@ -8,16 +8,10 @@
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
 </p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40" /></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" width="40" height="40" /></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /></td>
-    </tr>
-  </table>
-</div>
-
+<p align="center">
+<img align="center" src="https://skillicons.dev/icons?i=react,go,mongodb&theme=dark"/>
+</p> 
+ 
 <h3 align="center">No retreat—just coffee, code, and fixes</h3>
 
 <h4 align="left">Connect with me:</h4>
@@ -53,77 +47,24 @@
 <marquee direction="right">👉 **<a href="https://poetryhub-web.vercel.app/">Click Here to View Poetry Hub</a>** 👈</marquee>
 
 <h3 align="center">Languages and Tools:</h3>
-<div align="center">
-  <table border="0">
-    <tr>
-      <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a></td>
-      <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a></td>
-      <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a></td>
-      <td><a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a></td>
-      <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a></td>
-    </tr>
-     </table>
-    <table border="0">
-    <tr>
-      <td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a></td>
-      <td><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/></a></td>
-      <td><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a></td>
-      <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a></td>
-      <td><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://tse1.mm.bing.net/th/id/OIP.m0s2io11J82PR7miqan92wHaDt?pid=Api&P=0&h=180" alt="Laravel" width="40" height="40"/></a></td>
-   </tr>
-  </table>
-  </table>
-    <table border="0">
-    <tr>
-      <td><a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://tse1.mm.bing.net/th/id/OIP.I6C6KosylC55sd8mEQ3iHwHaHa?pid=Api&P=0&h=180" alt="Rust" width="40" height="40"/></a></td>
-      <td><a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" width="40" height="40"/></a></td>
-      <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a></td>
-      <td><a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"><img src="https://tse1.mm.bing.net/th/id/OIP.R6F5BSqdD21g-9Vct30MSwHaFG?pid=Api&P=0&h=180" alt="XAMPP" width="40" height="40"/></a></td>
-      <td><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a></td>
-    </tr>
-  </table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,figma,react,java,python,laravel,rust,go,mongodb,mysql,postgresql,c,cs,git,github&theme=dark" />
+  </a>
+</p>
 
-  <table border="0">
-    <tr>
-      <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a></td>
-      <td><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a></td>
-      <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a></td>
-      <td><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="background-color:white; border-radius:5px;"/></a></td>
-      <td><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a></td>
-    </tr>
-  </table>
-</div>
 
 <h3 align="center">GitHub Stats</h3>
-
 <div align="center">
   <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Portillass&theme=github_dark" alt="GitHub Contributions" />
+    <img src="https://github-readme-stats.vercel.app/api?username=portillass&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=portillass&theme=tokyonight&hide_border=true" alt="Streak" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=portillass&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
   </p>
-
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Portillass&layout=compact&theme=dark" alt="Top Languages" /></td>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Portillass&theme=github_dark" alt="Languages by Repo" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Portillass&theme=github_dark" alt="Languages by Commit" /></td>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Portillass&theme=github_dark" alt="GitHub Stats Summary" /></td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <table>
-    <tr>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Portillass&theme=github_dark" alt="Commit Activity" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Portillass&show_icons=true&theme=dark" alt="GitHub Stats" /></td>
-    </tr>
-  </table>
 </div>
 
 
-
+---
 <div align="center">
   <img align="center" alt="Coding GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400" />
 </div>
