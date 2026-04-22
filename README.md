@@ -1,5 +1,8 @@
+<p> <img src="https://komarev.com/ghpvc/?username=portillass&style=for-the-badge&color=blue"/>
+<a href="https://monkeytype.com/profile/nwrl" target="_blank">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.monkeytype.com%2Fusers%2Fnwrl%2Fprofile%3FisUid%3Dfalse&query=data.personalBests.time.%2260%22.%5B0%5D.wpm&style=for-the-badge&logo=monkeytype&label=MONKEYTYPE&color=green"/></a>
 <h1 align="center">Hi 👋, I'm Jarell E. Portillas</h1>
-<p align="center">
+
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi!,+Kopal..♥++;BTW,+my+name+is+Jarell+Portillas;I’m+21+years+Old,;I+Love+coffee,;and+I+play+Dota2,;I'm+doing+nothing<3"></a>
 </p>
 
